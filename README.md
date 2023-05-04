@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TiskiePils
+- 👋 Hi, I’m @TiskiePils a data science student at Loyola University Chicago
 - 👀 I’m interested in Data Science & Data Analytics
 - 🌱 I’m currently learning Data Science with SQL and Python
-- 💞️ I’m looking to collaborate on data anayltics projects
-- 📫 How to reach me: Email
+- 📫 How to reach me: eddiejak2019@gmail.com
 
 <!---
 TiskiePils/TiskiePils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
